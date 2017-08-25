@@ -12,6 +12,9 @@ about dataset:
     b) no
     c) unknown 
 3) also bring your data in pd of (something) while coming to college as well on monday.
-
+4)status of construction can be READY and UC
+5)enter the price in full digits 
+6)dont write measures in after nos like 6(km) only 6
+7)there has to be field abt price per sqft
 finally Have a  nice day..
 enjoy dataset making process..  :-)
